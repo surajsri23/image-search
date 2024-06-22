@@ -14,7 +14,7 @@ This repository contains the code for a simple image search using the Unsplash A
 
 ## Demo
 
-You can view a live demo of the application [here](#).
+You can view a live demo of the application [https://surajsri23.github.io/image-search/(#).
 
 ## Features
 
